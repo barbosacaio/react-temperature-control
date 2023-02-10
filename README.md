@@ -1,6 +1,5 @@
 <h2 align="center">
   React Temperature Control<br/>
-  <a href="https://barbosacaio.github.io/react-temperature-control/" target="_blank">Access it!</a>
 </h2>
 
 <br/>
